@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francois11-dp
-- 👀 I’m interested in Angular ionic and firbase
+- 👀 I’m interested in Angular ionic and firebase
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me francois@paulshomemade.com
