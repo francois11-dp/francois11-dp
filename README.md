@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francois
-- 👀 I’m interested in Angular ionic and firebase
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI & VR
+- 🌱 I’m currently learning Blender and Unity to build vr
+
 - 📫 How to reach me francois@paulshomemade.com
 
 <!---
