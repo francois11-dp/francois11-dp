@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francois11-dp
+- 👋 Hi, I’m Francois
 - 👀 I’m interested in Angular ionic and firebase
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
