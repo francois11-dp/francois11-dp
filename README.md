@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Francois
-- 👀 I’m interested in AI & VR
-- 🌱 I’m currently learning Blender and Unity to build vr
+- 👋 Hi, I’m Francois Du Plessis
+- 👀 I’m interested in Automating proses, writing cloud solutions and Saas projects.
+- 🌱 I’m currently learning Azure to and Machine learning to build beter predictive systems.
 
 - 📫 How to reach me francois@paulshomemade.com
 
